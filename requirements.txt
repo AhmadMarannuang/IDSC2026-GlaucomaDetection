@@ -1,0 +1,31 @@
+# ============================================================
+# IDSC 2026 — Glaucoma Detection AI
+# Requirements File
+# Python 3.12.3 | Ubuntu 24.04
+# ============================================================
+
+# ── Deep Learning ──────────────────────────────────────────
+tensorflow==2.21.0
+
+# ── Data Manipulation ──────────────────────────────────────
+pandas
+numpy
+
+# ── Image Processing ───────────────────────────────────────
+pillow
+opencv-python
+
+# ── Machine Learning ───────────────────────────────────────
+scikit-learn
+
+# ── Visualization ──────────────────────────────────────────
+matplotlib
+seaborn
+
+# ── Web Dashboard ──────────────────────────────────────────
+streamlit
+
+# ── Notebook Environment ───────────────────────────────────
+jupyter
+ipykernel
+nbformat
