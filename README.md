@@ -353,7 +353,7 @@ pip freeze > requirements.txt
 
 ## 👥 Team
 
-**IDSC 2026 — Team [Nama Tim Kamu]**
+**IDSC 2026 — Team [Road To Immo]**
 
 | Name | Institution |
 |------|-------------|
