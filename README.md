@@ -358,7 +358,7 @@ pip freeze > requirements.txt
 | Name | Institution |
 |------|-------------|
 | Ahmad Marannuang Tajibu 23031554040 | [Universitas Negeri Surabaya] |
-| Ahmad Marannuang Tajibu 23031554221 | [Universitas Negeri Surabaya] |
+| Lofian Rafi Qurrotul Ain  23031554221 | [Universitas Negeri Surabaya] |
 
 **Competition:** International Data Science Challenge 2026
 **Theme:** Mathematics for Hope in Healthcare
